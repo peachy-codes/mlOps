@@ -12,3 +12,4 @@ There is a requirements.txt that dictates the minimum required packages at this 
 Folders were created initially for simple storage of expected contents:
 
 Labs, data, inclass activities, homeworks, and projects
+--and models
