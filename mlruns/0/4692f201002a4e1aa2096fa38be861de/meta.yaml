@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/4692f201002a4e1aa2096fa38be861de/artifacts
+end_time: 1745285528400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4692f201002a4e1aa2096fa38be861de
+run_name: dapper-wren-59
+run_uuid: 4692f201002a4e1aa2096fa38be861de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285528391
+status: 3
+tags: []
+user_id: georgiavonminden

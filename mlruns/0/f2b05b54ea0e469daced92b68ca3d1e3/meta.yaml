@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/f2b05b54ea0e469daced92b68ca3d1e3/artifacts
+end_time: 1745287107971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2b05b54ea0e469daced92b68ca3d1e3
+run_name: kindly-lamb-239
+run_uuid: f2b05b54ea0e469daced92b68ca3d1e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745287107959
+status: 3
+tags: []
+user_id: georgiavonminden

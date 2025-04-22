@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/5d0d91e98acb42e18a45aef9f4361967/artifacts
+end_time: 1745280988947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d0d91e98acb42e18a45aef9f4361967
+run_name: agreeable-bug-637
+run_uuid: 5d0d91e98acb42e18a45aef9f4361967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745280987414
+status: 3
+tags: []
+user_id: georgiavonminden

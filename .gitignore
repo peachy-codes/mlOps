@@ -1,0 +1,17 @@
+# system files
+.DS_Store
+
+# experiment tracking
+inclass/mlruns/
+
+# model outputs
+models/
+*.pkl
+
+# data versioning
+*.dvc
+data/
+
+# misc
+*.db
+.metaflow/

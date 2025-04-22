@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/a6957381b44f42a293b39583f26af1cf/artifacts
+end_time: 1745285528496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6957381b44f42a293b39583f26af1cf
+run_name: trusting-mole-883
+run_uuid: a6957381b44f42a293b39583f26af1cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285528486
+status: 3
+tags: []
+user_id: georgiavonminden

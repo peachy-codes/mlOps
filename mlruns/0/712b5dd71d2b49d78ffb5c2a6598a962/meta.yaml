@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/712b5dd71d2b49d78ffb5c2a6598a962/artifacts
+end_time: 1745282429111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 712b5dd71d2b49d78ffb5c2a6598a962
+run_name: bemused-goat-789
+run_uuid: 712b5dd71d2b49d78ffb5c2a6598a962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745282427766
+status: 3
+tags: []
+user_id: georgiavonminden

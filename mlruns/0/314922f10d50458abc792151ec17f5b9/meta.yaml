@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/314922f10d50458abc792151ec17f5b9/artifacts
+end_time: 1745285528524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 314922f10d50458abc792151ec17f5b9
+run_name: welcoming-koi-950
+run_uuid: 314922f10d50458abc792151ec17f5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285528513
+status: 3
+tags: []
+user_id: georgiavonminden

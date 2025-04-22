@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/de463d51c48d4918ade2553909aec5be/artifacts
+end_time: 1745285527880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de463d51c48d4918ade2553909aec5be
+run_name: adventurous-crane-45
+run_uuid: de463d51c48d4918ade2553909aec5be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745285527873
+status: 3
+tags: []
+user_id: georgiavonminden

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgiavonminden/virtual-env/peachy-codes-copy/mlOps/mlruns/0/1d731bd8da1c4f06ba600a01ba856ea4/artifacts
+end_time: 1745282389321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d731bd8da1c4f06ba600a01ba856ea4
+run_name: angry-cod-997
+run_uuid: 1d731bd8da1c4f06ba600a01ba856ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745282387954
+status: 3
+tags: []
+user_id: georgiavonminden
