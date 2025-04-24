@@ -1,0 +1,5 @@
+{
+  "METAFLOW_DATASTORE": "gs",
+  "METAFLOW_DEFAULT_DATASTORE": "gs",
+  "METAFLOW_GS_ROOT": "gs://storage-mlops-42069-terraform-metaflow-default"
+}
